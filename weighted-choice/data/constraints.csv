@@ -1,0 +1,3 @@
+criterion,op,value,description
+capacity,>=,30,Місткість щонайменше 30 місць
+cost,<=,6000,Вартість не більше 6000 грн/день
